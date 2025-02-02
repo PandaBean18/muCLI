@@ -1,7 +1,8 @@
 # muCLI
 
 **muCLI** is a command line program to play music that uses the youtube and spotify api to play songs along with its lyrics
-[image](./demoImg.png)
+
+<img src="./demoImg.png" alt="demo image">
 
 ## API credentials
 
