@@ -1,0 +1,6 @@
+__pycache__/
+
+.env
+oauth.json
+*.mp3
+.cache
