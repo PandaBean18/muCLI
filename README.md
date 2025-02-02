@@ -21,11 +21,17 @@ SPOTIPY_CLIENT_SECRET=<spotify_client_secret>
 ## System requirements
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme)
+
 [ytmusicapi](https://ytmusicapi.readthedocs.io/en/stable/)
+
 [spotipy](https://spotipy.readthedocs.io/en/2.25.0/)
+
 [syrics](https://github.com/akashrchandran/syrics)
+
 pydub
+
 numpy
+
 mpg321
 
 ## Lyrics
